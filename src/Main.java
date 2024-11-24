@@ -8,6 +8,7 @@ public class Main {
         System.out.println(svadba);
         System.out.println(masterAndMargarita);
 
+
         svadba.setYear(1234);
         System.out.println(masterAndMargarita);
 
